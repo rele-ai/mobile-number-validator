@@ -482,9 +482,9 @@ var countryData_default = [
   },
   {
     country: "Nepal",
-    phoneNumberLengthByCountry_phLengthMax: 9,
+    phoneNumberLengthByCountry_phLengthMax: 10,
     phoneNumberLengthByCountry_phLengthMin: 8,
-    phoneNumberLengthByCountry_phLength: "8 to 9",
+    phoneNumberLengthByCountry_phLength: "8 to 10",
     phoneNumberLengthByCountry_CountryCode: 977,
     phoneNumberLengthByCountry_phLength_InternationalPrefix: 0,
     phoneNumberLengthByCountry_phLength_NationalPrefix: 0,
